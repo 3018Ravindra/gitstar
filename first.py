@@ -18,3 +18,7 @@ print(y)
 #this is a comment 
 print("this is a comment in python")
 
+#my fifth pogram in python is statement in python
+# in a programming language praogramming instructions are called statements
+
+print("this is a statement in python")
