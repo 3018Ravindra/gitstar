@@ -55,3 +55,8 @@ x = "hi"
 print(x)
 x = 3.24 
 print(x)
+
+a = 4
+A = "Sally"
+print(a)
+print(A)
