@@ -39,3 +39,19 @@ print(10 % 3)
 print(2 ** 3)
 print(10 // 3)
 print(0.1 + 0.2) # this is a floating point precsion issue in python
+
+#my eighth program in python is python variable assignment
+# variable are containers for storing data values
+# a variable is created the moment you first assign a value to it
+x = 5
+y = "hello world"
+print(x)
+print(y)
+
+# variables do not need to be declared with any particular type and can even change type after they have been set
+x = 5
+print(x)
+x = "hi"
+print(x)
+x = 3.24 
+print(x)
