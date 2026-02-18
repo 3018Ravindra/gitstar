@@ -22,3 +22,20 @@ print("this is a comment in python")
 # in a programming language praogramming instructions are called statements
 
 print("this is a statement in python")
+
+#my sixth program in python is python ouput/print
+print("this is a output in python")
+print("learning python is fun")
+
+#my seventh program in python is numbers in python
+print(5)
+print(3.14)
+print(-2)
+print(2 + 3)
+print(10 - 4)
+print(6 * 7)
+print(20 / 5)
+print(10 % 3)
+print(2 ** 3)
+print(10 // 3)
+print(0.1 + 0.2) # this is a floating point precsion issue in python
