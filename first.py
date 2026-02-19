@@ -70,3 +70,9 @@ myvariable = 20
 print(my_variable)
 print(myvariable)
 
+# my tenth program in python is python multiple variable assignment
+x, y, z = "ravi", "song", "nepali"
+print(x)
+print(y)
+print(z)
+
