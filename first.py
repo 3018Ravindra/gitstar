@@ -60,3 +60,13 @@ a = 4
 A = "Sally"
 print(a)
 print(A)
+
+# my ninth program in python is python variable naming rules
+# variables names can only contain letters, numbers and underscores
+# variable names must start with a letter or the underscore character
+# variable names are case-sensitive 
+my_variable = 18
+myvariable = 20
+print(my_variable)
+print(myvariable)
+
