@@ -76,3 +76,7 @@ print(x)
 print(y)
 print(z)
 
+# my eleventh program in python is python output variables
+x = "awesome"
+print("python is " + x)
+
