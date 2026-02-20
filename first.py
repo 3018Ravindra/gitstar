@@ -86,5 +86,20 @@ x = "awesome"
 def myfunc():
     print("python is " + x)
     myfunc()
-    
+# my thirteenth program in python is python data types
+x = "hello world" # str
+x = 20 # int
+x = 3.14 # float
+x = 1j # complex
+x = ["apple", "banana", "cherry"] # list
+x = ("apple", "banana", "cherry") # tuple
+x = range(6) # range
+x = {"name" : "ravi", "age" : 25} # dict
+x = {"apple", "banana", "cherry"} # set
+x = frozenset({"apple", "banana", "cherry", "banana"}) # frozenset
+x = True # bool
+x = b"hello" # bytes
+x = bytearray(5) # bytearray
+x = memoryview(bytes(5)) # memoryview
+
 
