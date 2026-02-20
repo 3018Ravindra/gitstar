@@ -80,3 +80,11 @@ print(z)
 x = "awesome"
 print("python is " + x)
 
+# my twelveth program in python is python global variables
+# variables that are created outside of a function and can be used anywhere in the program are called global variables
+x = "awesome"
+def myfunc():
+    print("python is " + x)
+    myfunc()
+    
+
