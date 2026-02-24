@@ -107,3 +107,9 @@ x = 5
 y = "hello world"
 print(type(x))
 print(type(y))
+
+# my fifteenth program in python is python strings
+a = "hello"
+b = 'world'
+print(a)
+print(b)
