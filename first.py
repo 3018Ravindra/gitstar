@@ -102,4 +102,8 @@ x = b"hello" # bytes
 x = bytearray(5) # bytearray
 x = memoryview(bytes(5)) # memoryview
 
-
+# my fourteenth program in python is python type function
+x = 5
+y = "hello world"
+print(type(x))
+print(type(y))
