@@ -113,3 +113,9 @@ a = "hello"
 b = 'world'
 print(a)
 print(b)
+
+# my sixteenth program in python is python string concatenation
+a = "hello"
+b = "world"
+c = a + " " + b
+print(c)
