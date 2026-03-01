@@ -1,15 +1,6 @@
-# my second file in python is second.py
-print("my second file")
+# learning python for beginners
+# solving problems with python programming language
 
-print(" this is my new file in python")
-x = 10
-y = 20
-sum = x + y
-print("the sum of x and y is:", sum)
-
-# this is a comment in python
-
-x = 5
-y = 10
-product = x * y
-print("the product of x and y is:", product)
+# my first problem in python is to print a message
+print("i am here to solve problems")
+print("this is for my cloud and devops journey")
