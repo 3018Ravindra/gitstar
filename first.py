@@ -119,3 +119,8 @@ a = "hello"
 b = "world"
 c = a + " " + b
 print(c)
+
+# my seventeenth program in python is python string formatting
+name = "ravi"
+age = 25
+print("my name is {} and i am {} years old".format(name, age))
