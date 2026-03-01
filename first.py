@@ -129,3 +129,10 @@ print("my name is {} and i am {} years old".format(name, age))
 name = "ravi"
 age = 25
 print(f"my name is {name} and i am {age} years old")
+
+# my nineteenth program in python is python string methods
+a + "hello world"
+print(a.upper())
+print(a.lower())
+print(a.strip())
+print(a.replace("hello", "world"))
