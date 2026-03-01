@@ -8,3 +8,8 @@ print("this is for my cloud and devops journey")
 # my second problem in python is to print a message with a variable
 message = "i a solving problems with python"
 print(message)
+
+# my third problem in python is to print a message with a variable and a number
+name = "ravi"
+age = 25
+print("my name is " + name + " and i am " + str(age) + " years old")
