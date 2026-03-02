@@ -95,3 +95,6 @@ print(mylist)
 mylist.clear()
 print(mylist)
 
+# my tenth problem is to solve a problem with strings
+name = "ravi"
+print(name)
