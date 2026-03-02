@@ -46,4 +46,52 @@ for i in range(5):
     print(i)
 for i in range(1, 6):
     print(i)
-    
+
+# my ninth problem is to solve a problem with a list
+# # a list is a collection which is ordered and changeable. In python lists are written with sqaure brackets
+# a list contain different data types
+# a list can contain duplicate values
+# a list can be nested
+# a list can be accessed by index
+# a list can be slices
+# a list can be modified
+# a list can be looped through
+# a list can be sorted
+# a list can be reversed
+# a list can be copied
+# a list can be cleared
+# a list can be deleted
+# a list can be joined
+# a list can be multiplied
+# a list can be unpacked
+# a list can be used as a stack
+# a list can be used as a queue
+# a list can be used as a deque
+# a list can be used a linked list
+# a list can be used as a tree
+# a list can be used as a graph
+# a list can be used as a hash table
+# a list can be used as a set
+# a list can be used as a frozenset
+# a list can be used as a dict
+# a list can be used as a tuple
+# a list can be used as a string
+# a list can be used as a number
+# a list can be used as a boolean
+# a list can be used as a bytes
+# a list can be used as a bytearray
+# a list can be used as a memoryview
+# a list can be used as a range
+# a list can be used as a complex
+mylist = ["apple", "banana"]
+print(mylist)
+mylist.append("cherry")
+mylist.insert(1, "orange")
+print(mylist)
+mylist.remove("banana")
+print(mylist)
+mylist.pop()
+print(mylist)
+mylist.clear()
+print(mylist)
+
