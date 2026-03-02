@@ -35,3 +35,8 @@ print(a / b)
 print(a % b) 
 print(a ** b)
 print(a // b)
+
+# my seventh problem is to solve a problem with a function
+def greet(name):
+    return f"hello {name}, welcome to python programming"
+print(greet("ravi"))
