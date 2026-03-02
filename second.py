@@ -19,3 +19,8 @@ name = "ravi"
 age = 25
 print(f"my name is {name} and i am {age} years old")
 
+# my fifth problem is to solve true or false
+x = 5
+y =10
+print(x > y) #false
+print(x < y) #true
