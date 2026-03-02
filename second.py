@@ -24,3 +24,14 @@ x = 5
 y =10
 print(x > y) #false
 print(x < y) #true
+
+# my sixth problem is to solve a math problem
+a = 10
+b = 15
+print(a + b) #25
+print(a - b) #-5
+print(a * b) #150
+print(a / b)
+print(a % b) 
+print(a ** b)
+print(a // b)
