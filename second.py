@@ -40,3 +40,10 @@ print(a // b)
 def greet(name):
     return f"hello {name}, welcome to python programming"
 print(greet("ravi"))
+
+# my eighth problem is to solve a problem with a loop
+for i in range(5):
+    print(i)
+for i in range(1, 6):
+    print(i)
+    
