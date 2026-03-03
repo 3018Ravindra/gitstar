@@ -130,3 +130,9 @@ for i in range(1, 26):
 # problem is to print the first 10 natural numbers in reverse order using a loop
 for i in range(10, 0, -1):
     print(i)
+
+# problem is to print the first 10 even numbers in reverse order using a loop
+for i in range(20, 0, -1):
+    if i % 2 == 0:
+        print(i)
+        
