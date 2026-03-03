@@ -103,3 +103,10 @@ print(name)
 mydict = {"name": "ravi", "age": 25}
 print(mydict)
 
+# my twelveth problem is to solve a problem with a tuple
+mytuple = ("apple", "banana", "cherry")
+print(mytuple)
+
+# my thrirteenth problem is to solve a problem with a set
+myset = {"apple", "banana", "cherry"}
+print(myset)
