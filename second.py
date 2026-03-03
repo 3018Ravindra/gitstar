@@ -98,3 +98,8 @@ print(mylist)
 # my tenth problem is to solve a problem with strings
 name = "ravi"
 print(name)
+
+# my eleventh problem is to solve a problem with a dictionary
+mydict = {"name": "ravi", "age": 25}
+print(mydict)
+
