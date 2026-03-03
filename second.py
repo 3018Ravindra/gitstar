@@ -110,3 +110,10 @@ print(mytuple)
 # my thrirteenth problem is to solve a problem with a set
 myset = {"apple", "banana", "cherry"}
 print(myset)
+
+
+# give me a problem to solve with python programming language
+# problem is to print the first 10 natural numbers using a loop
+for i in range(1, 11):
+    print(i)
+    
