@@ -121,4 +121,8 @@ for i in range(1, 11):
 for i in range(1, 21):
     if i % 2 == 0:
         print(i)
-            
+
+# problem is to print the first 10 odd numbers using a loop
+for i in range(1, 26):
+    if i % 2 != 0:
+        print(i)
