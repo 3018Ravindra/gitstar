@@ -116,4 +116,9 @@ print(myset)
 # problem is to print the first 10 natural numbers using a loop
 for i in range(1, 11):
     print(i)
-    
+
+# problem is to print the first 10 even numbers using a loop
+for i in range(1, 21):
+    if i % 2 == 0:
+        print(i)
+            
