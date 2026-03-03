@@ -122,7 +122,11 @@ for i in range(1, 21):
     if i % 2 == 0:
         print(i)
 
-# problem is to print the first 10 odd numbers using a loop
+# problem is to print the first 13 odd numbers using a loop
 for i in range(1, 26):
     if i % 2 != 0:
         print(i)
+
+# problem is to print the first 10 natural numbers in reverse order using a loop
+for i in range(10, 0, -1):
+    print(i)
