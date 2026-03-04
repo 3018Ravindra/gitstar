@@ -157,4 +157,9 @@ for name in names:
 mylist = ["Ravi"]
 for item in mylist:
     print(item)
-       
+
+# problem is to solve with a dictionary and a loop
+mydict: dict[str, int] = {"ravi": 25}
+for key, value in mydict.items():
+    print(f"my name is {key} and i am {value} years old")
+    
