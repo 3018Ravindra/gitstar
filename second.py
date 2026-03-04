@@ -185,7 +185,12 @@ for i in range(1, number + 2):
 
 # problem is to solve with a boolean and a loop
 is_ravi = True
-for i in range(1, 11):
+for i in range(1, 12):
     if is_ravi:
         print("Ravi is here to solve problems with python programming language")
-        
+
+# problem is to solve with a bytes and a loop
+mybytes = b"Ravi"
+for byte in mybytes:
+    print(byte)
+    
