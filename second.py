@@ -167,4 +167,9 @@ for key, value in mydict.items():
 mytuple = ("apple", "Ravi",)
 for item in mytuple:
     print(item)
-    
+
+# problem is to solve with a set and a loop
+myset = {"Special Forces", "Ravi"}
+for item in myset:
+    print(item)
+      
