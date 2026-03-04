@@ -177,4 +177,8 @@ for item in myset:
 name = "Ravi"
 for char in name:
     print(char)
-    
+
+# problem is solve with a number and a loop
+number = 10
+for i in range(1, number + 2):
+    print(i)
