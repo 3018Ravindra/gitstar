@@ -172,4 +172,9 @@ for item in mytuple:
 myset = {"Special Forces", "Ravi"}
 for item in myset:
     print(item)
-      
+
+# problem is to solve with a string and a loop
+name = "Ravi"
+for char in name:
+    print(char)
+    
