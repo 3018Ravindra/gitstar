@@ -153,4 +153,8 @@ names = ["ravi"]
 for name in names:
     print(greet(name))
 
-    
+# problem is to solve with a list and a loop
+mylist = ["Ravi"]
+for item in mylist:
+    print(item)
+       
