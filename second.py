@@ -182,3 +182,10 @@ for char in name:
 number = 10
 for i in range(1, number + 2):
     print(i)
+
+# problem is to solve with a boolean and a loop
+is_ravi = True
+for i in range(1, 11):
+    if is_ravi:
+        print("Ravi is here to solve problems with python programming language")
+        
