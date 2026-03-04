@@ -144,5 +144,13 @@ for i in range(1, 11):
     print(a - b)
     print(a * b)
     print(a / b)
-    
 
+
+# problem is to solve a problem with a function and a loop
+def greet(name):
+    return f"hello {name}, welcome to python programming"
+names = ["ravi"]
+for name in names:
+    print(greet(name))
+
+    
