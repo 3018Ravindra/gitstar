@@ -205,4 +205,8 @@ mybytearray = bytearray(mybytes)
 memoryview = memoryview(mybytearray)
 for byte in memoryview:
     print(byte)
+
+# problem is to solve with a range and a loop
+for i in range(1, 21):
+    print(i)
     
