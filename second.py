@@ -198,4 +198,11 @@ for byte in mybytes:
 mybytearray = bytearray(5)
 for byte in mybytearray:
     print(byte)
-      
+
+# problem is to solve with a memoryview and a loop
+mybytes = b"Ravi"
+mybytearray = bytearray(mybytes)
+memoryview = memoryview(mybytearray)
+for byte in memoryview:
+    print(byte)
+    
