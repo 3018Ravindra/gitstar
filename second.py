@@ -193,4 +193,9 @@ for i in range(1, 12):
 mybytes = b"Ravi"
 for byte in mybytes:
     print(byte)
-    
+
+# problem is to solve with a bytearray and a loop
+mybytearray = bytearray(5)
+for byte in mybytearray:
+    print(byte)
+      
