@@ -209,4 +209,9 @@ for byte in memoryview:
 # problem is to solve with a range and a loop
 for i in range(1, 21):
     print(i)
+
+# problem is to solve with a complex number and a loop
+mycomplex = complex(2, 3)
+for i in range(1, 21):
+    print(mycomplex)
     
