@@ -222,4 +222,13 @@ if number > 0:
 else:
     print("number is negative")
 
+# solving problem with conditional statements such as if, elif and else
+print("enter a number")
+number = int(input())
+if number > 0:
+    print("number is positive")
+elif number < 0:
+    print("number is negative")
+else:
+    print("number is zero")
     
