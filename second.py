@@ -214,4 +214,12 @@ for i in range(1, 21):
 mycomplex = complex(2, 3)
 for i in range(1, 21):
     print(mycomplex)
+
+# problem is to solve with a if and else
+number = 10
+if number > 0:
+    print("number is positive")
+else:
+    print("number is negative")
+
     
