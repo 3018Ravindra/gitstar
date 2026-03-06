@@ -245,3 +245,19 @@ elif number < 0:
         print("number is negative and even")
     else:
         print("number is negative and odd") 
+
+
+# problem is to solve with a while loop
+# problem is to print the first 1o natural numbers using a while loop
+
+i = 1
+while i <= 10:
+    print(i)
+    i += 1
+# even numbers using while loop
+i = 1
+while i <= 20:
+    if i % 2 == 0:
+        print(i)
+        i += 1
+        
