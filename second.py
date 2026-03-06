@@ -231,4 +231,17 @@ elif number < 0:
     print("number is negative")
 else:
     print("number is zero")
-    
+
+# problem is to solve with a nested if
+print("enter a number")
+number = int(input())
+if number > 0:
+    if number % 2 == 0:
+        print("number is positive and even")
+    else:
+        print("number is positive and odd")
+elif number < 0:
+    if number % 2 == 0:
+        print("number is negative and even")
+    else:
+        print("number is negative and odd") 
