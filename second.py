@@ -260,4 +260,17 @@ while i <= 20:
     if i % 2 == 0:
         print(i)
         i += 1
+
+# problem is to print the first 10 odd numbers using a while loop
+i = 1
+while i <= 20:
+    if i % 2 != 0:
+        print(i)
+        i +=1
         
+# problem is to print the first 10 natural numbers in reverse order using a while loop
+i = 10
+while i >= 1:
+    print(i)
+    i -= 1
+
