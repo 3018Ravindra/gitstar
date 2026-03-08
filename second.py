@@ -306,3 +306,8 @@ a = 10
 b = 34
 print(a + b)
 print(a - b)
+
+# seventh problem is to solve a problem with data structures
+mylist = ["Ravi", "SOF"]
+print(mylist)
+
