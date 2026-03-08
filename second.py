@@ -318,3 +318,7 @@ print(mytuple)
 # ninth problem is to solve with data structures using sets
 myset = {"Ravi", "SOF"}
 print(myset)
+
+# tenth problem is with Data structures using dictionaries
+mydict = {"Ravi": 23, "SOF": 55}
+print(mydict)
