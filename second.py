@@ -282,3 +282,8 @@ print("hello world")
 # second problem in python is to print a message with a variable
 message = "hello python programming"
 print(message)
+
+# third problem in python is to print a message with a variable and a number
+name = "ravi"
+age = 25
+print("my name is " + name + " and i am " + str(age) + " years old")
