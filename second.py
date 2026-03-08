@@ -311,3 +311,7 @@ print(a - b)
 mylist = ["Ravi", "SOF"]
 print(mylist)
 
+# eighth problem is to solve a problem with data structures using tuples
+mytuple = ("Ravi", "SOF")
+print(mytuple)
+
