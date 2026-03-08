@@ -24,4 +24,19 @@ def two_sum(nums, target):
             result = two_sum(nums, target)
             print(result) # output: [0, 1]
 
-            
+
+# problem is to solve with a linked list and a loop
+class node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+# example usage
+head = node(1)
+head.next = node(2)
+head.next.next = node(3)
+
+current = head
+while current:
+    print(current.data)
+    current = current.next
