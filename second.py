@@ -322,3 +322,8 @@ print(myset)
 # tenth problem is with Data structures using dictionaries
 mydict = {"Ravi": 23, "SOF": 55}
 print(mydict)
+
+# eleventh problem is to solve with a function
+def greet(name):
+    return f"hello {name}, welcome Ravi"
+print(greet("Ravi"))
