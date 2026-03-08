@@ -287,3 +287,22 @@ print(message)
 name = "ravi"
 age = 25
 print("my name is " + name + " and i am " + str(age) + " years old")
+
+# fourth problem is to print a message with a variable and a number using f-string
+name = "ravi"
+age = 25
+print(f"my name is {name} and i am {age} years old")
+
+# fifth problem is to solve true or false
+x = 5
+y = 10
+print(x > y) # false
+print(x < y) # true
+print(x == y) # false
+print(x != y) # true
+
+# sixth is to solve a math problem
+a = 10
+b = 34
+print(a + b)
+print(a - b)
