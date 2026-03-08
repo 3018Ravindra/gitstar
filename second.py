@@ -274,3 +274,11 @@ while i >= 1:
     print(i)
     i -= 1
 
+
+
+# first problem in python is to print a message
+print("hello world")
+
+# second problem in python is to print a message with a variable
+message = "hello python programming"
+print(message)
