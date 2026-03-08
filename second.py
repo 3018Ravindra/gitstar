@@ -315,3 +315,6 @@ print(mylist)
 mytuple = ("Ravi", "SOF")
 print(mytuple)
 
+# ninth problem is to solve with data structures using sets
+myset = {"Ravi", "SOF"}
+print(myset)
