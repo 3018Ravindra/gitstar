@@ -342,4 +342,8 @@ def check_number(number):
     else:
         return "number is zero"
     
-    
+# fourteenth problem is to solve with a function and loops
+def print_numbers(n):
+    for i in range(1, n + 1):
+        print(i)
+        
