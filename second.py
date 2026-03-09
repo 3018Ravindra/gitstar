@@ -331,5 +331,15 @@ print(greet("Ravi"))
 # twelfth problem is to solve with a function and operators
 def add(a, b):
     return a + b
-print(add(10, 20))
+print(add(10, 20)) # 30
 
+# thirteenth problem with a function and conditional statements
+def check_number(number):
+    if number > 0:
+        return "number is positive"
+    elif number < 0:
+        return "number is negative"
+    else:
+        return "number is zero"
+    
+    
