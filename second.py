@@ -327,3 +327,9 @@ print(mydict)
 def greet(name):
     return f"hello {name}, welcome Ravi"
 print(greet("Ravi"))
+
+# twelfth problem is to solve with a function and operators
+def add(a, b):
+    return a + b
+print(add(10, 20))
+
