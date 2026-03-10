@@ -346,4 +346,10 @@ def check_number(number):
 def print_numbers(n):
     for i in range(1, n + 1):
         print(i)
-        
+
+# fifteenth problem is to solve with a if statements
+a = 55
+b = 44
+if a > b:
+    print("a is larger number than b")
+    
